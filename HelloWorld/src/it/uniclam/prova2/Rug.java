@@ -5,4 +5,5 @@ public class Rug {
 	
 	
 	private int paolo;
+	
 }
